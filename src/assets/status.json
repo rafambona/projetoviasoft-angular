@@ -1,0 +1,5 @@
+[
+    {"id":"1", "estado": "PR", "servico": "Teste1", "statusCor": "Success"},
+    {"id":"2", "estado": "PR", "servico": "Teste2", "statusCor": "Success"},
+    {"id":"3", "estado": "PR", "servico": "Teste3", "statusCor": "Error"}
+]
